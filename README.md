@@ -33,11 +33,11 @@ Gameplay
 
 Controls table:
 
-| Number | Move     |
-|--------|----------|
-| 1      | Rock     |
-| 2      | Paper    |
-| 3      | Scissors |
+| Number | Move          |
+|--------|-------------- |
+| 1      | Rock '✊'    |
+| 2      | Paper '🤚'   |
+| 3      | Scissors '✌️'|
 
 Example session (user input in bold):
 
@@ -51,7 +51,7 @@ Choose your move:
 You chose Rock. Computer chose Scissors.
 You win!
 Play again? (Y/N) > **N**
-Goodbye!
+Thanks for playing!
 ```
 
 Notes:

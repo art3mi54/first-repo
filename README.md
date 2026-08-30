@@ -39,7 +39,7 @@ Controls table:
 | 2      | Paper '🤚'   |
 | 3      | Scissors '✌️'|
 
-Example session (user input in bold):
+Example session (user input in asterisks):
 
 ```text
 Welcome to Rock Paper Scissors!

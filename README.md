@@ -62,9 +62,9 @@ Notes:
     Controls
 Number	 =   Move
 
-1	  =      Rock
+    1	  =      Rock
 
-2	  =      Paper
+    2	  =      Paper
 
-3	  =      Scissors
+    3	  =      Scissors
 

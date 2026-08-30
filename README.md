@@ -60,8 +60,8 @@ Notes:
 - The program determines the winner and asks whether to play again.
 
     Controls
-Number	    Move
-1	        Rock
-2	        Paper
-3	        Scissors
+Number	 =   Move
+1	  =      Rock
+2	  =      Paper
+3	  =      Scissors
 
